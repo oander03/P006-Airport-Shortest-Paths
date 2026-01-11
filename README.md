@@ -12,6 +12,10 @@ starting airport to other airports to make sure a customer can reach any airport
 - Finds airports that don't have any routes to them and makes a route from the starting airport to it
 - Finds airports that are loops to other airports according to the routes and adds a route from the starting airport to one of them
 
+## Tech Stack 🛠️
+
+100% Python <br/>
+
 ## Notes
 This is a practice problem from a real google interview:  https://www.youtube.com/watch?v=qz9tKlF431k
 
