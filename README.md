@@ -3,6 +3,10 @@ The function takes in multiple airports and routes the planes can take from airp
 The goal was to start at an airport with zero routes and find the lowest number of routes from the 
 starting airport to other airports to make sure a customer can reach any airport from the starting one.
 
+<img width="420" height="798" alt="image" src="https://github.com/user-attachments/assets/51026783-2102-461a-bdb6-b2b7f28b9177" />
+<img width="465" height="76" alt="image" src="https://github.com/user-attachments/assets/8995249d-e65a-45d3-9928-a4ef5844bc98" />
+
+
 ## Notes
 This is a practice problem from a real google interview:  https://www.youtube.com/watch?v=qz9tKlF431k
 
