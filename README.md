@@ -7,7 +7,10 @@ starting airport to other airports to make sure a customer can reach any airport
 
 <img width="985" height="151" alt="image" src="https://github.com/user-attachments/assets/9e89e59a-6bd4-4029-a221-e0845fb6de77" />
 
-
+## How it Works 🚀
+- Finds each airports available routes
+- Finds airports that don't have any routes to them and makes a route from the starting airport to it
+- Finds airports that are loops to other airports according to the routes and adds a route from the starting airport to one of them
 
 ## Notes
 This is a practice problem from a real google interview:  https://www.youtube.com/watch?v=qz9tKlF431k
